@@ -1,0 +1,10 @@
+F:\Fakhruddin Study\Projects\Write_text_CS\Write_text_CS\obj\Debug\Write_text_CS.csprojAssemblyReference.cache
+F:\Fakhruddin Study\Projects\Write_text_CS\Write_text_CS\obj\Debug\Write_text_CS.Properties.Resources.resources
+F:\Fakhruddin Study\Projects\Write_text_CS\Write_text_CS\obj\Debug\Write_text_CS.csproj.GenerateResource.cache
+F:\Fakhruddin Study\Projects\Write_text_CS\Write_text_CS\obj\Debug\Write_text_CS.csproj.CoreCompileInputs.cache
+F:\Fakhruddin Study\Projects\Write_text_CS\Write_text_CS\obj\Debug\Write_text_CS.Form1.resources
+F:\Fakhruddin Study\Projects\Write_text_CS\Write_text_CS\bin\Debug\Write_text_CS.exe.config
+F:\Fakhruddin Study\Projects\Write_text_CS\Write_text_CS\bin\Debug\Write_text_CS.exe
+F:\Fakhruddin Study\Projects\Write_text_CS\Write_text_CS\bin\Debug\Write_text_CS.pdb
+F:\Fakhruddin Study\Projects\Write_text_CS\Write_text_CS\obj\Debug\Write_text_CS.exe
+F:\Fakhruddin Study\Projects\Write_text_CS\Write_text_CS\obj\Debug\Write_text_CS.pdb
